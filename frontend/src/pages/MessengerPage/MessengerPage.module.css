@@ -1,0 +1,35 @@
+.messenger {
+  max-width: 710px;
+  display: block;
+  position: relative;
+  height: 100%;
+  margin-right: auto;
+  margin-left: auto;
+  margin-bottom: 10px;
+  padding: 10px;
+  box-sizing: border-box;
+  border-width: 2px;
+  border-radius: 10px;
+  border-color: darkgray;
+
+}
+
+.input {
+  display: flex;
+  width: 50%;
+  margin-bottom: 10px;
+  max-width: 650px;
+  margin-left: auto;
+  margin-right: auto;
+  border-width: 3px;
+  border-color: #c7c7c7; /* Соответствует цвету gray.300 */
+  color: blue; /* Соответствует цветовой схеме "blue" */
+}
+
+.text {
+  text-align: center;
+  font-weight: bold;
+  font-size: 30px;
+  margin-bottom: 20px;
+  margin-top: 20px;
+}

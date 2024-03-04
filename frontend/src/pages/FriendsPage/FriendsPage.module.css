@@ -1,0 +1,33 @@
+.friends {
+  display: block;
+  box-sizing: border-box;
+  position: relative;
+  max-width: 710px;
+  height: 100%;
+  margin-right: auto;
+  margin-left: auto;
+  margin-bottom: 10px;
+  padding: 10px;
+  border: 2px solid darkgray;
+  border-radius: 10px;
+  z-index: 8;
+}
+
+.input {
+  display: flex;
+  margin-top: 15px;
+  margin-bottom: 15px;
+  max-width: 650px;
+  width: 50%;
+  margin-left: auto;
+  margin-right: auto;
+  border-width: 3px;
+}
+
+.text {
+  text-align: center;
+  font-weight: bold;
+  font-size: 30px;
+  margin-bottom: 20px;
+  margin-top: 20px;
+}

@@ -1,0 +1,16 @@
+.sidebar {
+    position: fixed;
+    background-color: white;
+    box-shadow: 0px 5px 10px 0px rgba(0, 0, 0, 0.5);
+    width: 280px;
+    height: 100vh;
+    z-index: 99;
+}
+
+.menuItem {
+    height: 50px;
+}
+
+.menuItem:hover {
+    background-color: yellowgreen;
+}
